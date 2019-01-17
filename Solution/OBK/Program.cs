@@ -21,7 +21,7 @@ namespace OBK
             Application.Run(new MainForm());
             
         }
-        static public string serverUrl = "http://192.168.3.50:5000/";
+        static public string serverUrl = "http://192.168.3.17/";
         static public int maxoNum = 0;
     }
 }
